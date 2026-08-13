@@ -1,5 +1,6 @@
-\# Movie Recommendation System
+## 🚀 Live Demo
 
+[Click here to try the Movie Recommendation System](https://movie-recommendation-system-nhr5oi8kb4rtbh2pnqbw2z.streamlit.app)
 
 
 \## Objective
